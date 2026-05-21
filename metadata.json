@@ -1,0 +1,6 @@
+{
+  "name": "Pouaka Kai Game",
+  "description": "An interactive educational game teaching lunchbox items and food names in Te Reo Māori with shape associations, streak multipliers, and continuous queues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
