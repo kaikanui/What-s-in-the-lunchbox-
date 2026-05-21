@@ -18,7 +18,7 @@ export const LUNCHBOX_ITEMS: LunchboxItem[] = [
   {
     id: 'spoon',
     nameEnglish: 'Spoon',
-    nameMaori: 'koko',
+    nameMaori: 'pune',
     category: 'utensil',
     description: 'Used for eating yogurt or soup.'
   },
